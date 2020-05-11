@@ -1,0 +1,2 @@
+rootProject.name='CredAssignmentTask'
+include ':app'
