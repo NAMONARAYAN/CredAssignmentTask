@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336744994177",
+    "firebase_url": "https://credassignmenttask.firebaseio.com",
+    "project_id": "credassignmenttask",
+    "storage_bucket": "credassignmenttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336744994177:android:b2123a90b67d2bce0d0480",
+        "android_client_info": {
+          "package_name": "com.app.credassignmenttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336744994177-gdf9a7ou0p7v4d51e8t9d3p7do9unuf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgz5vFYaPGYyBvRP3z8RR6_qfKxM8Oddk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336744994177-gdf9a7ou0p7v4d51e8t9d3p7do9unuf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
